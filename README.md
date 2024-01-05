@@ -11,8 +11,17 @@ Para acceder a "Midnight Hunters", se requiere que los usuarios se registren usa
 3. Uso de Datos
 "Midnight Hunters" utiliza el ID de publicidad de Google para el servicio AdMob, sujeto a los términos y condiciones de Google. No recopilamos ningún otro dato personal de nuestros usuarios.
 
-4. Edad Mínima
-El juego está clasificado como apto para usuarios de 13 años en adelante.
+4. Edad Mínima y Clasificación por Regiones
+La edad mínima para utilizar "Midnight Hunters" varía según la región debido a las diferentes clasificaciones de contenido. A continuación se detallan las clasificaciones por región:
+
+Australia (ACB): Clasificado para mayores de 15 años. Descriptores de contenido: Violencia de nivel alto.
+Brasil (ClassInd): Clasificado para mayores de 14 años. Descriptores de contenido: Violencia.
+Norteamérica (ESRB): Clasificado para mayores de 13 años. Descriptores de contenido: Violencia, Sangre, Humor Vulgar.
+Corea del Sur (GRAC): Clasificado 12+. Descriptores de contenido: Violencia.
+Europa (PEGI): Clasificado PEGI 16. Descriptores de contenido: Violencia fuerte.
+Alemania (USK): Clasificado para mayores de 16 años. Descriptores de contenido: Violencia.
+Resto del Mundo (IARC Generic): Clasificado para mayores de 16 años. Descriptores de contenido: Violencia fuerte.
+Rusia (Google Play): Clasificado para mayores de 16 años. Descriptores de contenido: Violencia fuerte.
 
 5. Monetización
 Actualmente, "Midnight Hunters" no incluye compras dentro de la aplicación. Cualquier cambio en esta política será anunciado y actualizado en estos términos.
@@ -47,8 +56,17 @@ To access "Midnight Hunters," users are required to register using an email addr
 3. Data Use
 "Midnight Hunters" utilizes Google's advertising ID for the AdMob service, subject to Google's terms and conditions. We do not collect any other personal data from our users.
 
-4. Minimum Age
-The game is rated for users aged 13 and over.
+4. Minimum Age and Regional Ratings
+The minimum age for using "Midnight Hunters" varies by region due to different content ratings. Below are the ratings by region:
+
+Australia (ACB): Rated for ages 15 and over. Content descriptors: High-level violence.
+Brazil (ClassInd): Rated for ages 14 and over. Content descriptors: Violence.
+North America (ESRB): Rated for ages 13 and over. Content descriptors: Violence, Blood, Crude Humor.
+South Korea (GRAC): Rated 12+. Content descriptors: Violence.
+Europe (PEGI): Rated PEGI 16. Content descriptors: Strong violence.
+Germany (USK): Rated for ages 16 and over. Content descriptors: Violence.
+Rest of the World (IARC Generic): Rated for ages 16 and over. Content descriptors: Strong violence.
+Russia (Google Play): Rated for ages 16 and over. Content descriptors: Strong violence.
 
 5. Monetization
 Currently, "Midnight Hunters" does not include in-app purchases. Any changes to this policy will be announced and updated in these terms.
